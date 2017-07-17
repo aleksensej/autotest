@@ -3,6 +3,8 @@ JUnit and selenium test
 
 Just a small help in creating automated testing in Front-End
 
+Whenever you use this project, remember to add Selenium Jars and update the driver for you selected Browser.
+
 Settup info
 https://github.com/aleksensej/autotest.git
 
